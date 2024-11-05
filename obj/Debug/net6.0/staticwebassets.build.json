@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ScRjDDXM7QkRutNTzj1hAWmhReSzqZqHkzj79kp6AT4=",
+  "Source": "MailDataProcessing",
+  "BasePath": "_content/MailDataProcessing",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
